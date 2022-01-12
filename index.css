@@ -162,9 +162,10 @@ header{
 .card{
     flex: 1;
     min-height: 5vh;
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
     width: 6vh;
     padding: 8vh;
+    box-shadow: 7px 7px #f1f7f2;
     
     
 
