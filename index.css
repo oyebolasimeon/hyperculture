@@ -240,8 +240,8 @@ li{
     }
 
     .card-2{
-        margin-left: 0px;
-        margin-right: 0px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
 
     .card{
@@ -253,7 +253,7 @@ li{
         display: none;
     }
 
-    .banner-img{
+    .banner-img img{
         margin-top: 5vh;
         width: 80%;
     }
