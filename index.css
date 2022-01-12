@@ -180,7 +180,9 @@ header{
     margin-left: 20px;
     margin-left: 3vh;
     margin-right: 3vh;
+    color: #fff;
 }
+
 
 .card-3{
     /* width: 5vh; */
@@ -202,6 +204,11 @@ header{
 
 .icons{
     font-size: 30px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #557666;
 }
 
 
@@ -237,6 +244,9 @@ li{
         margin-right: 0px;
     }
 
+    .card{
+        padding: 2vh;
+    }
     
     
     .nav{
