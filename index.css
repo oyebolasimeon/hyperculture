@@ -194,6 +194,12 @@ header{
     float: right;
 }
 
+.card-3 img{
+    width: 80%;
+    float: right;
+    margin-top: -18vh;
+    /* margin-left: 5vh; */
+}
 .card-title{
     margin-top: 3vh;
     font-family: sans-serif;
@@ -251,6 +257,10 @@ li{
 
     .card{
         padding: 2vh;
+    }
+
+    .card-3 img{
+        display: none;
     }
     
     
